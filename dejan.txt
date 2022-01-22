@@ -1,2 +1,4 @@
 Test ajout zone index du GIT.
 Texte ajouté le 22/01/2022 11:23:22 par moi.
+22/01/2022 12:16:35 - Modification effectué par l'utilisateur CLONE
+
