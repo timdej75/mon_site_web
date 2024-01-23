@@ -1,2 +1,3 @@
-22/01/2022 11:56:30 - Création de ce fichier pour utiliser les issues
-22/01/2022 11:56:49 - Je vérifierai que ce fichier a bien été associé à l'issue #1
+22/01/2022 11:56:30 - CrÃ©ation de ce fichier pour utiliser les issues
+22/01/2022 11:56:49 - Je vÃ©rifierai que ce fichier a bien Ã©tÃ© associÃ© Ã  l'issue #1
+23/01/2024 19:45:00 - Maj ce soir pour actualiser.
